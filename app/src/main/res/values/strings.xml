@@ -1,0 +1,12 @@
+<resources>
+	<string name="app_name">PersonaForm</string>
+	<string name="nombre">Nombre</string>
+	<string name="apellido">Apellido</string>
+	<string name="fechaNacimiento">Fecha de Nacimiento</string>
+	<string name="edad">Edad</string>
+	<string name="email">Email</string>
+	<string name="email_hint">Ingrese su Email</string>
+	<string name="enviar">Enviar</string>
+	<string name="agregar_persona">Agregar Persona</string>
+	<string name="telefono">Telefono</string>
+</resources>
